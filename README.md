@@ -1,6 +1,6 @@
 # Finance Hub
 
-**Finance Hub** é um dashboard de investimentos full stack, desenvolvido com:
+**Finance Hub** é um dashboard de investimentos full stack, em Clean-ish Architecture desenvolvido com:
 
 - **Frontend:** Vue.js
 - **Backend:** .NET (API REST)
