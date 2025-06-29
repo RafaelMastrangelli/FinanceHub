@@ -1,0 +1,23 @@
+# Frontend (Vue + Vite)
+FinanceHub.Client/node_modules/
+FinanceHub.Client/dist/
+FinanceHub.Client/.env
+FinanceHub.Client/.DS_Store
+
+# Backend (.NET)
+FinanceHub.API/bin/
+FinanceHub.API/obj/
+FinanceHub.API/*.user
+FinanceHub.API/*.suo
+FinanceHub.API/.vs/
+
+# Editor/IDE
+.vscode/
+*.sw?
+*~
+*.log
+
+# Sistema
+Thumbs.db
+ehthumbs.db
+.DS_Store
