@@ -1,4 +1,4 @@
-namespace FinanceHub.API.Models
+namespace FinanceHub.API.DTOs
 {
     public class InvestmentDto
     {

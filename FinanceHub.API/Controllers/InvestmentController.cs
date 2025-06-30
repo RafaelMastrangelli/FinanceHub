@@ -13,6 +13,6 @@ namespace FinanceHub.API.Controllers
         {
             _service = service;
         }
-        // Adicione endpoints aqui
+        
     }
 } 
