@@ -22,3 +22,20 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+dist/
+build/
+
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+
+# Editor-specific folders
+.vscode/
+.cursor/
+
+# Optional
+.DS_Store
